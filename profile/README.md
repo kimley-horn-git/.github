@@ -13,10 +13,10 @@ Kimley-Horn is...
 ### Projects
 
 [![🌎ArcGIS toolboxes](https://img.shields.io/badge/%F0%9F%8C%8E%20ArcGIS-Toolboxes-red)](#)
-- Toolboxes here
+- [toolbox](link) | [toolbox](link)
 
 [![Python Packages](https://img.shields.io/badge/Python-Packages-3776AB?logo=python&logoColor=fff)](#)
-- python packages here
+- [package](link) | [package](link)
 
 ---
 
